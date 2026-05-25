@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "matrix.cpp"
+#include "matrix.h"
 
 int main(){
     //Declare the dimensions of the matrix
